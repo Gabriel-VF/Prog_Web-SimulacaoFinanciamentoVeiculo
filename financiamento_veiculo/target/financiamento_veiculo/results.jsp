@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<title>Resultados</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+	<script src='main.js'></script>
+</head>
+<body>
+	<h1>Resultados</h1>
+	<p>Valor total pago: ${valorTotalPago}</p>
+	<p>Valor total de parcelas: ${valorTotalParcelas}</p>
+	<p>Valor total de juros: ${valorTotalJuros}</p>
+</body>
+</html>
